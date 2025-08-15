@@ -19,6 +19,7 @@ AIをプロジェクトの仲間として動かすために、
 ## サンプル
 - [psycommu.md](psycommu.md) : 基本テンプレート
 - [examples/auto-translator.md](examples/auto-translator.md) : 自動翻訳システムのサンプル
+- [examples/big-zaku-megaparticle.md](examples/big-zaku-megaparticle.md) : 情報自動拡散システムのサンプル
 
 ## 使い方
 1. `psycommu.md` を自分のプロジェクト用に編集
