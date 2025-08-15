@@ -28,3 +28,4 @@ AIをプロジェクトの仲間として動かすために、
 ---
 
 #KGNINJA
+https://buymeacoffee.com/kgninja
